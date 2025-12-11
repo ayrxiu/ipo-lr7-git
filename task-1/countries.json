@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Минск",
+    "country": "Беларусь",
+    "is_big": true,
+    "people_count": "1.996.730"
+  },
+  {
+    "id": 2,
+    "name": "Рим",
+    "country": "Италия",
+    "is_big": true,
+    "people_count": "2.200.000"
+  },
+  {
+    "id": 3,
+    "name": "Афины",
+    "country": "Греция",
+    "is_big": true,
+    "people_count": "3.300.000"
+  },
+  {
+    "id": 4,
+    "name": "Москва",
+    "country": "Россия",
+    "is_big": true,
+    "people_count": "13.274.285"
+  },
+  {
+    "id": 5,
+    "name": "Мехико",
+    "country": "Мексика",
+    "is_big": true,
+    "people_count": "689.545"
+  }
+]
